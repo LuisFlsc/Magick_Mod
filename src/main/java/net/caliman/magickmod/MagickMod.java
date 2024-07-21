@@ -1,6 +1,7 @@
 package net.caliman.magickmod;
 
 import com.mojang.logging.LogUtils;
+import net.caliman.magickmod.block.ModBlocks;
 import net.caliman.magickmod.item.ModItems;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -21,6 +22,8 @@ public class MagickMod {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(modEventBus);
+
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

@@ -6,5 +6,9 @@
   "item.magickmod.magick_dust": "Pó de Magick",
   "item.magickmod.magick_shard": "Fragmento de Magick",
 
+  "block.magickmod.magick_block": "Bloco de Magick",
+  "block.magickmod.magick_ore": "Minério de Magick",
+  "block.magickmod.deepslate_magick_ore": "Minério de Magick Reforçado",
+
   "itemGroup.magicktab": "Magick"
 }
