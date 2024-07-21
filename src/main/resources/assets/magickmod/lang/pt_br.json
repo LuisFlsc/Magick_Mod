@@ -1,14 +1,14 @@
 {
-  "item.magickmod.emerald_sword": "Espada de Esmeralda",
-  "item.magickmod.emerald_pickaxe": "Picareta de Esmeralda",
-  "item.magickmod.emerald_shovel": "Pá de Esmeralda",
-  "item.magickmod.emerald_axe": "Machado de Esmeralda",
-  "item.magickmod.magick_dust": "Pó de Magick",
-  "item.magickmod.magick_shard": "Fragmento de Magick",
+  "item.magickmod.emerald_sword": "Espada de esmeralda",
+  "item.magickmod.emerald_pickaxe": "Picareta de esmeralda",
+  "item.magickmod.emerald_shovel": "Pá de esmeralda",
+  "item.magickmod.emerald_axe": "Machado de esmeralda",
+  "item.magickmod.magick_dust": "Pó de magick",
+  "item.magickmod.magick_shard": "Fragmento de magick",
 
-  "block.magickmod.magick_block": "Bloco de Magick",
-  "block.magickmod.magick_ore": "Minério de Magick",
-  "block.magickmod.deepslate_magick_ore": "Minério de Magick Reforçado",
+  "block.magickmod.magick_block": "Bloco de magick",
+  "block.magickmod.magick_ore": "Minério de magick",
+  "block.magickmod.deepslate_magick_ore": "Minério de magick de ardósia",
 
   "itemGroup.magicktab": "Magick"
 }
